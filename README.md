@@ -54,4 +54,4 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-<p align="center"><h4 align="left"><samp> And Much More </samp></h4></p>
+<p align="center"><h4 align="left"><samp> And I Know Much More </samp></h4></p>
