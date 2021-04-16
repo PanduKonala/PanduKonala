@@ -1,4 +1,4 @@
-# Hey There! I'm [Pandu Konala](https://github.com/accoutnthere) <img src="https://github.com/pandukonala/pandukonala/blob/master/Hi.gif" width="25px">
+# Hey There! I'm [Pandu Konala](https://github.com/accoutnthere) <img src="https://github.com/PanduKonala/PanduKonala/blob/main/Hi.gif" width="25px">
 <br><br>
 <a href="https://github.com/PanduKonala">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
@@ -10,13 +10,13 @@
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <br><br>
-![](https://github.com/pandukonala/pandukonala/blob/main/header_.png)
+![](https://github.com/PanduKonala/PanduKonala/blob/main/header_.png)
 
 ## <p align="center"><h4 align="center"><samp> An Security Researcher, An Open Source Contributor, Cloud Architect ☁  & Ethical Hacker </samp></h4></p>
 <p align="center"><h4 align="center"><samp> I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. </samp></h4></p>
 
 <div>
-<img align="right" src="https://github.com/pandukonala/pandukonala/blob/master/code.gif" width="40%"/>
+<img align="right" src="https://github.com/PanduKonala/PanduKonala/blob/main/code.gif" width="40%"/>
   <br>
 
 - 🔭 <samp>Master of Science in Cyber Security (2019-2020) from Lancaster University, UK.
