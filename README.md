@@ -1,4 +1,4 @@
-# Hey There! I'm [Pandu Konala](https://github.com/accoutnthere) <img src="https://github.com/PanduKonala/PanduKonala/blob/main/Hi.gif" width="25px">
+# Hey There! I'm [Pandu Konala](https://github.com/PanduKonala) <img src="https://github.com/PanduKonala/PanduKonala/blob/main/Hi.gif" width="25px">
 <br><br>
 <a href="https://github.com/PanduKonala">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
