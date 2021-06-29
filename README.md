@@ -3,7 +3,7 @@
 <a href="https://github.com/PanduKonala">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/pandu-rangareddy-179064149">
+<a href="https://www.linkedin.com/in/pandu-konala-179064149">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/0mega_wiz/">
@@ -12,15 +12,16 @@
 <br><br>
 ![](https://github.com/PanduKonala/PanduKonala/blob/main/header_.png)
 
-## <p align="center"><h4 align="center"><samp> An Security Researcher, An Open Source Contributor, Cloud Architect ☁  & Ethical Hacker </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> An Cyber Security Researcher, An Open Source Contributor, Network Architect & Ethical Hacker </samp></h4></p>
 <p align="center"><h4 align="center"><samp> I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. </samp></h4></p>
 
 <div>
 <img align="right" src="https://github.com/PanduKonala/PanduKonala/blob/main/code.gif" width="40%"/>
   <br>
 
-- 🔭 <samp>Master of Science in Cyber Security (2019-2020) from Lancaster University, UK.
-- 👷 <samp>B.Tech in Computer Science & Engrineering (2015-2019) from AMRITA VISHWA VIDYAPEETHAM, Coimbatore.
+- 🎓 <samo>Doctor of Philosophy in Computer Science (2021-Present) at The University of Waikato, New Zealand.
+- 🔭 <samp>Master of Science in Cyber Security (2019-2020) from Lancaster University, United Kingdom.
+- 👷 <samp>B.Tech in Computer Science & Engineering (2015-2019) from Amrita Vishwa Vidyapeetham, India.
 - 💬 Ask me about anything, I am happy to help;
 </div>
 
