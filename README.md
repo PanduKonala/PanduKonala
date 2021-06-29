@@ -19,7 +19,7 @@
 <img align="right" src="https://github.com/PanduKonala/PanduKonala/blob/main/code.gif" width="40%"/>
   <br>
 
-- 🎓 <samo>Doctor of Philosophy in Computer Science (2021-Present) at The University of Waikato, New Zealand.
+- 🎓 <samp>Doctor of Philosophy in Computer Science (2021-Present) at The University of Waikato, New Zealand.
 - 🔭 <samp>Master of Science in Cyber Security (2019-2020) from Lancaster University, United Kingdom.
 - 👷 <samp>B.Tech in Computer Science & Engineering (2015-2019) from Amrita Vishwa Vidyapeetham, India.
 - 💬 Ask me about anything, I am happy to help;
